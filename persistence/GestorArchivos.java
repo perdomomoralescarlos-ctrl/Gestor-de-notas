@@ -5,7 +5,7 @@ import model.Usuario;
 import java.io.*;
 import java.util.ArrayList;
 
-public class Permanencia {
+public class GestorArchivos {
 
     private static final String ARCHIVO = "usuarios.dat";
 

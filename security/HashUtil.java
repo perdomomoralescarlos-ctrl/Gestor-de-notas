@@ -2,7 +2,7 @@ package security;
 
 import java.security.MessageDigest;
 
-public class Seguridad {
+public class HashUtil {
 
     public static String hash(String password) {
 
